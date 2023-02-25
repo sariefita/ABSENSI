@@ -5,10 +5,13 @@
       <map>
         <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/drawable/bulat.xml" value="0.1" />
         <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/drawable/kotak.xml" value="0.1885" />
-        <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/activity_main.xml" value="0.12" />
-        <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/activity_main2.xml" value="0.16" />
+        <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/activity_main2.xml" value="0.18" />
         <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/activity_main3.xml" value="0.12" />
         <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/activity_main4.xml" value="0.11" />
+        <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/activity_main5.xml" value="0.17" />
+        <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/adapter_note.xml" value="0.18" />
+        <entry key="..\:/EFITA SARI/ABSENSI/app/src/main/res/layout/apdater_note.xml" value="0.33" />
       </map>
     </option>
   </component>
