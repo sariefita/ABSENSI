@@ -8,6 +8,9 @@ import androidx.room.PrimaryKey
 data class Note (
     @PrimaryKey(autoGenerate = true)
     val id: Int,
-    val title: String,
-    val note: String
+    val tanggal: String,
+    val nama: String,
+    val nis: Int,
+    val kelas: String,
+    val keterangan: String
 )

@@ -43,6 +43,24 @@
             android:layout_marginTop="50dp"
             app:srcCompat="@drawable/bh_removebg_preview" />
 
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/bulat2" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/bulat2" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/bulat2" />
+
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

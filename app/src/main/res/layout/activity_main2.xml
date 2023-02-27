@@ -27,7 +27,7 @@
         <ImageView
             android:id="@+id/imageView23"
             android:layout_width="match_parent"
-            android:layout_height="268dp"
+            android:layout_height="294dp"
             android:background="#FFFFFF"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
